@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EyeControllerCompanion:jar">
+    <output-path>$USER_HOME$/Desktop/CodingProjects</output-path>
+    <root id="archive" name="EyeControllerCompanion.jar">
+      <element id="module-output" name="EyeControllerCompanion" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openpnp/opencv/4.6.0-0/opencv-4.6.0-0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
